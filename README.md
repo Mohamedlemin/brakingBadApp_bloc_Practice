@@ -1,6 +1,6 @@
 # breakingbad_app
 
 
-## Bloc design pattern , best practices ,clean code practice 
+## Bloc design pattern , best practices and clean code practice 
 
 
